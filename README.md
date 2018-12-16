@@ -12,10 +12,15 @@ We are processing our frames through OpenCV and using a Caffe model version of t
 MobileNet in this repo has been used in the following projects, we recommend you to take a look:
 
 The MobileNet neural network using Apple's new CoreML framework hollance/MobileNet-CoreML
+
 Mobile-deep-learning baidu/mobile-deep-learning
+
 Receptive Field Block Net for Accurate and Fast Object Detection ruinmessi/RFBNet
+
 Depthwise Convolutional Layer yonghenglh6/DepthwiseConvolution
+
 MobileNet-MXNet KeyKy/mobilenet-mxnet
+
 Caffe2-MobileNet camel007/caffe2-mobilenet
 
 # Questions
