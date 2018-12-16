@@ -119,10 +119,7 @@ while True:
                         finalX = startX + halfX
                         finalY = startY + halfY
                         pyautogui.moveTo(finalX, finalY)
-                        #win32api.SetCursorPos((finalX, finalY))
-                       # win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, finalX, finalY, 0, 0)
-                       # win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, finalX, finalY, 0, 0)
-                        #print 'Pressed L'
+
                     if 'HSX' not in locals():
                         HSX = startX
                     if 'LSX' not in locals():
@@ -169,10 +166,6 @@ while True:
                     print('HendY: ' + str(HEY))
                     print('LendY: ' + str(LEY))
  
-                #print args["confidence"]
- 
-#             click(10,10)
- 
  
     # show the output frame
     cv2.imshow("Frame", frame)
@@ -181,11 +174,6 @@ while True:
     # if the `q` key was pressed, break from the loop
     if key == ord("q"):
         break
- 
-    # update the FPS counter
- 
- 
-# stop the timer and display FPS information
  
  
  
