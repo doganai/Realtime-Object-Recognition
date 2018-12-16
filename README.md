@@ -1,6 +1,8 @@
 # Realtime-Object-Recognition
 Real Time Object Recognition for games and streams
 
+Article: https://medium.com/@foundationai/real-time-object-recognition-on-fortnite-e8e041b5d49b
+
 # Install
 Have Python3 installed via Anaconda or through the Python website. 
 Install requirements in the file with 
