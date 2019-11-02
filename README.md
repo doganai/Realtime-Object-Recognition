@@ -28,6 +28,6 @@ MobileNet-MXNet KeyKy/mobilenet-mxnet
 Caffe2-MobileNet camel007/caffe2-mobilenet
 
 # Questions
-john@foundationai.org
+john@dogan.ai
 
 www.dogan.ai
